@@ -28,15 +28,20 @@ holidays:
     days:
       01-01:
         _name: 01-01
-      04-21:
-        name:
-          pt: Dia de Tiradentes
-          en: Tiradentes' Day
-      easter -50 PT110H:
+      02-12:
         name:
           pt: Carnaval
           en: Carnival
         type: optional
+      02-13:
+        name:
+          pt: Carnaval
+          en: Carnival
+        type: optional
+      04-21:
+        name:
+          pt: Dia de Tiradentes
+          en: Tiradentes' Day
       easter -2:
         _name: easter -2
       easter:
@@ -78,6 +83,9 @@ holidays:
         name:
           pt: Proclamação da República
           en: Republic Day
+      11-20:
+        name:
+          pt: Dia da Consciência Negra
       "12-24 14:00":
         _name: 12-24
         type: optional
